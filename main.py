@@ -7,6 +7,7 @@ def main():
     """Main Function"""
     num_words = number_of_words(file_contents)
     num_char = num_chars(file_contents)
+
     print(
         f"""
 ============ BOOKBOT ============
